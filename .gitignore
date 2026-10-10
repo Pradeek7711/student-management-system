@@ -1,0 +1,14 @@
+
+# Local database and exported/imported data
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
